@@ -31,4 +31,4 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://https://service-discovery1.azurewebsites.net/eureka
